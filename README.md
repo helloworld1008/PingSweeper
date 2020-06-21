@@ -1,6 +1,7 @@
 # PingSweeper - ICMP ping scanner tool
 
 As the name suggests, PingSweeper is a multi-threaded python-based tool that sends ICMP ping packets to specific IP addresses to check liveliness of hosts
+The advantage of using multithreading is that a separate thread is created for pinging each host. So the program does not have to wait for a response from a particular host before moving on to the next IP address.
 
 ## How to use
 
