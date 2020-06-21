@@ -1,1 +1,1 @@
-# PingSweeper
+# PingSweeper - ICMP ping scanner tool
