@@ -56,4 +56,4 @@ if __name__ == '__main__':
 
 	print ""
 
-	print "\nTime taken: {0}\n".format(t1-t0)
+	print "\nTime taken: {0} seconds\n".format(t1-t0)
