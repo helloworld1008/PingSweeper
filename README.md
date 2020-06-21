@@ -6,7 +6,7 @@ As the name suggests, PingSweeper is a multi-threaded python-based tool that sen
 
 - Download the script to a folder of your choice on your linux system 
 - Give executable permissions to the script
-- Create a file named "IP_file" and add the required IP addresses to it
+- Create a file named ```IP_file``` and add the required IP addresses to it
 - Execute the script
 ```
 $ ls -l
