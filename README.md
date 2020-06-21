@@ -33,7 +33,7 @@ $ ./pingsweeper.py
 13.227.237.16 is alive
 103.23.45.62 is dead
 
-Time taken: 2.08218884468
+Time taken: 2.08218884468 seconds
 
 $ 
 ```
